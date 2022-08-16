@@ -1,4 +1,5 @@
-I wrote and run my first code 1984 and still loving it.
+Part time software developer since 1994
+Current active with Laravel
 
 <!---
 Tioranat/Tioranat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
