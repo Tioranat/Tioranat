@@ -1,7 +1,7 @@
 Part time software developer since 1994
 
 
-Current active with Laravel
+Currently active with Laravel
 
 <!---
 Tioranat/Tioranat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
